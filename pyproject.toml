@@ -1,0 +1,9 @@
+[project]
+name = "bndes-despesas-viagens"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cookiecutter-data-science>=2.2.0",
+]
